@@ -19,23 +19,33 @@ from where you want to build an equation.
 After this step, you must choose the necessary mathematical operator for the equation:
 
 (+) SUM.
+
 (-) SUBSTRACTION.
+
 (*) MULTIPLICATION.
+
 (/) DIVISION.
+
 (%) REMAINDER.
+
 
 Lastly, you need to choose the direction in which the equation is solved. Values can be:
 
 (8) UP.
+
 (2) DOWN.
+
 (4) LEFT.
+
 (6) RIGHT.
+
 
 The game should try to solve the equation taking into account the values entered by the
 user, starting from the selected cell and using the adjacent cells that are are in the chosen direction.
 Every equation is formulated as follows: A ± B = C.
 
 (1) - Therefore, if the user enters:
+
 - Row: 5.
 
 - Column: 3.
