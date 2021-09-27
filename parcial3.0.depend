@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1623697963 source:/home/fedemejuto/Desktop/parcial-3-0/parcial3.0/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1624120909 .h"
+
+1623695345 /home/fedemejuto/Desktop/parcial-3-0/parcial3.0/funciones.h
+
+1623698197 source:/home/fedemejuto/Desktop/parcial-3-0/parcial3.0/funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1623778862 source:c:\users\54113\desktop\parcial3.0\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1623781948 c:\users\54113\desktop\parcial3.0\funciones.h
+
+1623781948 source:c:\users\54113\desktop\parcial3.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1623895963 source:c:\users\graco\desktop\parcial3.1\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1623895874 c:\users\graco\desktop\parcial3.1\funciones.h
+
+1623895964 source:c:\users\graco\desktop\parcial3.1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1623905438 source:c:\users\54113\desktop\parcial3.1\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1623905438 c:\users\54113\desktop\parcial3.1\funciones.h
+
+1623905793 source:c:\users\54113\desktop\parcial3.1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1624121822 source:c:\users\graco\desktop\parcial3.2\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1624118783 c:\users\graco\desktop\parcial3.2\funciones.h
+
+1624120909 source:c:\users\graco\desktop\parcial3.2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1624177611 source:c:\users\54113\desktop\parcial 3.3\parcial3.2\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624825158 
+
+1624175930 c:\users\54113\desktop\parcial 3.3\parcial3.2\funciones.h
+
+1624175930 source:c:\users\54113\desktop\parcial 3.3\parcial3.2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1571584339 c:\users\54113\desktop\parcial 3.3\parcial3.2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1571584340 h>
+
+1624329502 source:c:\users\graco\desktop\parcial 3.3\parcial3.2\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624329602 c:\users\graco\desktop\parcial 3.3\parcial3.2\funciones.h
+
+1571584339 c:\users\graco\desktop\parcial 3.3\parcial3.2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624329143 source:c:\users\graco\desktop\parcial 3.3\parcial3.2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624343325 source:c:\users\54113\desktop\parcial final\parcial 3.3\parcial3.2\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624342874 c:\users\54113\desktop\parcial final\parcial 3.3\parcial3.2\funciones.h
+
+1571584340 c:\users\54113\desktop\parcial final\parcial 3.3\parcial3.2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624342874 source:c:\users\54113\desktop\parcial final\parcial 3.3\parcial3.2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624406643 source:c:\users\54113\desktop\parcial\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624406230 c:\users\54113\desktop\parcial\funciones.h
+
+1571584340 c:\users\54113\desktop\parcial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624404744 source:c:\users\54113\desktop\parcial\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624825127 source:c:\users\54113\desktop\wawryniuk - linares -mejuto\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624825158 c:\users\54113\desktop\wawryniuk - linares -mejuto\funciones.h
+
+1571584340 c:\users\54113\desktop\wawryniuk - linares -mejuto\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624825158 source:c:\users\54113\desktop\wawryniuk - linares -mejuto\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624825274 source:/home/fedemeju/Desktop/parcial/funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1624825158 /home/fedemeju/Desktop/parcial/funciones.h
+
+1571584340 /home/fedemeju/Desktop/parcial/rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624825158 source:/home/fedemeju/Desktop/parcial/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
