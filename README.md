@@ -16,7 +16,9 @@ Over the gameplay, the player must enter the coordinate of the first number posi
 from where you want to build an equation.
 
 
+
 After this step, you must choose the necessary mathematical operator for the equation:
+
 
 (+) SUM.
 
@@ -29,6 +31,7 @@ After this step, you must choose the necessary mathematical operator for the equ
 (%) REMAINDER.
 
 
+
 Lastly, you need to choose the direction in which the equation is solved. Values can be:
 
 (8) UP.
@@ -38,6 +41,7 @@ Lastly, you need to choose the direction in which the equation is solved. Values
 (4) LEFT.
 
 (6) RIGHT.
+
 
 
 The game should try to solve the equation taking into account the values entered by the
@@ -53,6 +57,8 @@ Every equation is formulated as follows: A ± B = C.
 (2) - Then the operation: + (Sum).
 
 (3) -And finally, enter: 4 (left).
+
+
 
 The game will check if the equation is correct. If the equation is correct, the user will obtain the equivalent score for that round
 to the sum of the three numbers that took part in the equation (A + B+ C).
